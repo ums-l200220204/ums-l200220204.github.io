@@ -39,7 +39,7 @@ class Mahasiswa:
             print("KRS belum diisi! Tidak bisa menerima nilai.\n")
 
 # Simulasi Proses Kuliah
-mahasiswa = Mahasiswa("Budi", "12345678")
+mahasiswa = Mahasiswa("Avicena Widyanarga", "L200220204")
 
 # 1. Bayar SPP
 mahasiswa.bayar_spp()
