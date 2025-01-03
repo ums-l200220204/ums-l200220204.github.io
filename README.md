@@ -3,4 +3,4 @@
 
 ## Navigasi
 
-[![Lihat kode UTS](https://img.shields.io/badge/Lihat-Kode%20Python-blue)](./tugas_ipsd_uts.py)
+[![Lihat kode UTS](https://img.shields.io/badge/Lihat-Kode%20UTS-blue)](./tugas_ipsd_uts.py)
